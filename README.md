@@ -1,1 +1,2 @@
 # Higher-Order-Functions
+In this task we use some functions in JavaScript that called Higher order functions (Map , forEach) , by applying this task we can know the differences between using this functions on arrays and using loops .
